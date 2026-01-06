@@ -46,8 +46,9 @@ crashlytics-build.properties
 .vscode/
 .vsconfig
 
+# Python virtual environments
 .venv/
-Agent/venv/
+venv/
 
 # Python
 __pycache__/
