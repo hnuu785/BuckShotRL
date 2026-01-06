@@ -9,6 +9,7 @@
 [Ll]ogs/
 [Tt]emp/
 [Tt]emplates/
+*.sln
 
 # User-specific files
 .vscode/
