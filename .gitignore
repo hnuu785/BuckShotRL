@@ -48,4 +48,11 @@ crashlytics-build.properties
 
 .venv/
 Agent/venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
 .DS_Store
